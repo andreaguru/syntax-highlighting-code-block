@@ -1,0 +1,70 @@
+{
+    "aliases": [
+        "sofistik",
+        "sof",
+        "dat"
+    ],
+    "case_insensitive": true,
+    "keywords": {
+        "keyword": "prog trus end head syst ctrl page mate sect node beam case lc lcc grp echo grav dir supp comb prob let define if else while for loop system material section group item task team dep report req asgn due prio stat name role desc fix kopf auslesen schnittgrößen quad edge kine getn trs cabl bsec bric spri boun addm mass sbox del mod tran extr loft intr umsh ubnd intf rset expo impo unit ulti lane gax save isel posl sync opt lim trai fact widt prof qnr osp obli nstr endloop endif txe size pict join dbo filt flt txtp and cant cast stor situ facd crep nmat emod gpcs cs apply trpl step cont hist steu norm flay mlay bmat hmat beto stah holz maue arbl mext bohr blay bbax bbla smat sarb lca quer qb edgb shrw seil cnr ba qw qpol op krei neff wand blec lnah wpar bew lebw kbew ubew tvar conc stee timb maso ssla sval srec scit sv poly vert circ cut pane plat weld spt sfla rf lrf crf curf trag plot grup grp2 q8x8 elem konf hoch plab bewq stex schi slip volu movs takt sfix fixt lf temp pext eige beme dehn leno high tbea reio laun rein desi add ada sum act komb knot fach stab stel copy lar poin linecurv lzug lzpl lzbl trex wind wpro wrau wtop wspe wgen wipt ltd ltdg schn fede rand spie mirr coor xsub",
+        "built_in": "none full forc disp perm facd unii mno conc rect mitte warn warp yes auto rcre off user",
+        "literal": "true false",
+        "parameter": "gdiv kr type ncs fak1 dfak pro tol no x posy p1 p2 p4 p9 p5 p8 pfac lcb gr_t axis axis1.0 wr wl v titl prob nr typ mnr warm par ref refs refp val vmax iter fmax chrs rsv old th3 sc w h id rule show ovlp amax ux uy repr dlst dl relz nonl g_1 b icsi faci v3 icsd s z nx ny nz p a rlc wert val2 ndc coun cat alt snow seis e mue g k gam gama alfa m00 e90 oaf spm fy ft bez mxy cal t beta t0 nr0 t1 nr1 t2 nr2 t3 nr3 t4 nr4 t5 nr5 t6 nr6 t7 nr7 t8 nr8 t9 nr9 art p3 p6 p7 p10 p11 p12 c cq riss flie coh dil gamb mref kxx kyy kzz kxy nsp omax tk nmat fcn fc fct fctk ec qc scm typr fcr ecr fbd ffat fctd feor feqt gmod kmod gc gf muec guet fdyn fyc ftc tmax rel1 rel2 r k1 epsy epst gkla ep oh qh90 fm ft0 ft90 fc0 fc90 fv fvr fvb fm90 g90 oal kmo1 kmo2 kmo3 kmo4 kdef rho skla mkla m90 fhs ftb muet eps sig ts mnrb fctf exp val1 val9 alf es des vari pmax pmal s1 s2 k0 k2 k3 m0 c0 ca0 ca2 p0 cl0 cl1 cl2 cl3 sm0 sm2 p+ p- vy+ vy- vz+ vz- my+ my- mz+ mz- alph u f sh fp lev phas ay az it iy iz iyz cm ysc zsc ymax zmax wt wyz npl vypl ho bo so su ss mbw mbwl ym zsym flip aso asu daso dasu amin pasu asb incl cutz cutf cint beff bdl l d lz+ az+ dz+ rz+ lz- az- dz- rz- sa si asa asi das inl ke bcy bcz ktz wbis ak heby hebz deff fakg dy dz smax phi refr smin ya za ye ze ns ms wtm wtd vyfk vzfk bnei bmax tana refa rfda rfsa rfde rfse asma laga lage rang z1 z2 z3 sym vd vs vt vr1 vr2 vb2 vt2 vb cw wu1 wu2 wu3 wty wtz wvz tuc eis verk alf sgy cwz cwt chyd clat tors ar dist cent scop cmnt ns0 ns1 nref iba iba9 olas mcla scla mnoc mn0 tanr tand ksig d0 d2 vzpl mtpl mypl mzpl mrfl rtyp yb zb asup fixb fixe sigy tauc ice traf yref refi rfdi rfsi ag vr0 vr19 v19 ics ics9 ct yiel emin plf fakv srei uebe n dt int the lfst sele ntra prim bis knr rich nkri ro rh stab sigh fakl hw radb modd vorx vory belz phif phis gele fakb baeg stea quea quex quey alp0 trau gemx geom zeil mxx myy myx ox qy nxx nyy nxy qvon qbis etyp faks l0 vtvr lfb lfbs chkr sx sy sz spei nrsl nrel nrsi dv von delt egx egy egz bet2 gamu gamf psi0 psi1 psi2 ps1 ps2 ps3 cri1 cri2 cri3 rela seit neig nite mite lmin vx vy vz mzz bmod zgrp feak am1 am2 am3 am4 sc1 sc2 ss1 ss2 c1 c2 ktau ttol tanb scl tsv mscd kmin kmax hmin hmax chkc chkt fat sigs tans tanc dump fmin emax plc facv cham lcst dmin nno dire nore facs facl facd prex prey hing facb csdl ulus row posi inc dx xm zm pr1 ptpr nog nc lcrs nosl noel dlx dly dlz ps1s side nfro nto ninc mx my mz fmod lcr sfac ksv ksb smod bb ... ahr apar as2 as9 bets cbbc cbc cc chkd chks crac cs0 cs1 cs2 cs3 cs31 cst cw- delr f1 f2 f3 f4 f5 f6 ffct from ics1 ics2 ics3 lamc laml lams lamt lc1 lc2 lc3 lc4 lc5 lc6 lima mb mt mt2 nob pred psi3 rel rmod sbbc sbbt sbc sbt scmg scom scs sii ssem sser sskm sskr sstm st styp sup tau taus to tvs uz xe y yhr zdif zhr zz faku base lf zust fakt opt part komc pass ksav extr elem fakf komb ba wind cfr pi0 frad exx eyy ezz x1 y1 z1 x2 y2 x3 y3 z3 x4 y4 z4 x6 y6 z6 dpx dpy dpz ntyp vtyp wide yex nar grp1 grp2 grp3 m n t proj tag name ind w2 w3 w4 clas mod sb smin tb tc td te zo av tmin axx ayy azz wxx wyy wzz refx refy refz ared gh linf dt lspp r2 incr yca yce yra yla yre yle hsa hse inca ince heff incd asl pfak widt phi2 phis phi4 fuga xkol dirt frb frbo dabo whee frwh dawh pb pw pf dpos dmax bw lw bogi cont lmax ldel zw uc expu rho nf siga sigb norm zone klas dxr dyr dzr wave vr vboe tlon tlat tver llon lat meer a1 a2 a9 r9 xm ym a1lo a2lo a3lo b1lo b2lo clo a1la a2la a3la b1la b2la cla a1ve a2ve a3ve b1ve b2ve cve c3e kuu kuv kuw kvu kvv kvw kwu kwv kww spek lkoh hist hytp elim mnam srlc srct src trgt trg trgm hmcm guid alfy alfz anfa bety betz cp dm dp dq drot drx dry drz ende expp fd1 fd2 fd3 fd4 fd5 fd6 fd9 fix gap gap1 gdir k4 k5 k6 k7 k8 ka km m12 m15 m23 m26 m34 m37 m41 m48 m56 m67 m78 m85 n1 n2 n3 n4 n5 n6 n7 n8 n35 n36 nd nd1 nd2 nd3 nd4 nd5 nd6 nd9 np nra phig phix phiy phiz prog qnr sar sln spez t11 t12 t13 t21 t22 t23 t31 t32 t33 teil tx txy ty typh typq var vor xa xref zref a1x a1y a1z a2x a2y a2z a3x a3y a3z b1x b1y b1z b2x b2y b2z b3x b3y b3z ca ce div dnr expm fak fakx faky idsc idtg item kare kere kmre krx mess mp1 mp2 mp3 myz mzx ng ngs path per prop prz reft ry rz sel sez snap sref temp thet unit uw uxx uyy uzz v1 v2 xmax xmin ymin zmin ahin ehin expt gapt mno mrf na nare ne nere nm nmre pre rx spec typm typt dno fac fakz lc mxz n32 no1 no2 set fixa fixl fixm idp qob cd v4"
+    },
+    "contains": [
+        {
+            "className": "comment_line",
+            "begin": "^\\$",
+            "end": "$",
+            "relevance": 100
+        },
+        {
+            "className": "comment",
+            "begin": "!",
+            "end": "$"
+        },
+        {
+            "className": "module",
+            "begin": "(\\bPROG|^\\+(?:prog|PROG))\\s+(AQUA|SOFiMSHA|SOFiMSHC|SOFiLOAD|TENDON|CSM|ASE|HASE|TALPA|DYNA|ELLA|HYDRA|STAR2|RELY|DOLFYN|DECREATOR|FEABENCH|FEACHECK|MAXIMA|AQB|BEMESS|BDK|BEAM|COLUMN|SHEARWALL|WING|RESULTS|DBPRIN|SIR|DYNR|PLBCONVERTER|TEXTILE)\\b",
+            "relevance": 15
+        },
+        {
+            "className": "meta",
+            "begin": "^\\+(?:prog|PROG)",
+            "end": "\\s",
+            "excludeEnd": true,
+            "relevance": 10
+        },
+        {
+            "className": "meta",
+            "begin": "^\\+apply",
+            "end": "$",
+            "relevance": 15
+        },
+        {
+            "className": "meta",
+            "begin": "urs:\\d+",
+            "relevance": 10
+        },
+        {
+            "className": "symbol",
+            "begin": "(@[A-Z]+|#[a-zA-Z0-9_]+)",
+            "relevance": 10
+        },
+        {
+            "className": "string",
+            "begin": "'",
+            "end": "'"
+        },
+        {
+            "className": "string",
+            "begin": "\"",
+            "end": "\""
+        },
+        {
+            "className": "number",
+            "begin": "(-?)\\b([\\d']+(\\.[\\d']*)?|\\.[\\d']+)([eE][-+]?[\\d']+)?",
+            "relevance": 0
+        }
+    ]
+}
