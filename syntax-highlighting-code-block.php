@@ -5,7 +5,7 @@
  * Description:       Extending the Code block with syntax highlighting rendered on the server, thus being AMP-compatible and having faster frontend performance.
  * Requires at least: 6.6
  * Requires PHP:      7.4
- * Version:           1.5.2-alpha
+ * Version:           1.5.1
  * Author:            Weston Ruter
  * Author URI:        https://weston.ruter.net/
  * License:           GPL2
@@ -17,7 +17,7 @@
 
 namespace Syntax_Highlighting_Code_Block;
 
-const PLUGIN_VERSION = '1.5.2-alpha';
+const PLUGIN_VERSION = '1.5.1';
 
 const PLUGIN_MAIN_FILE = __FILE__;
 
@@ -25,7 +25,7 @@ const PLUGIN_DIR = __DIR__;
 
 const BLOCK_NAME = 'core/code';
 
-const DEVELOPMENT_MODE = true; // This is automatically rewritten to false during dist build.
+const DEVELOPMENT_MODE = true; // set temporary to true in order to test sofistik syntax
 
 const OPTION_NAME = 'syntax_highlighting';
 
@@ -71,3 +71,10 @@ const ATTRIBUTE_SCHEMA = [
 require_once __DIR__ . '/inc/functions.php';
 
 add_action( 'plugins_loaded', __NAMESPACE__ . '\boot' );
+
+add_filter(
+	'syntax_highlighting_code_block_style',
+	function() {
+		return 'sofistik';
+	}
+);

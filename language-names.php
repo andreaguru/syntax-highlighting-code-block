@@ -158,6 +158,7 @@ return [
 	'smali' => __( 'Smali', 'syntax-highlighting-code-block' ),
 	'smalltalk' => __( 'Smalltalk', 'syntax-highlighting-code-block' ),
 	'sml' => __( 'SML (Standard ML)', 'syntax-highlighting-code-block' ),
+    'sofistik' => __( 'Sofistik', 'syntax-highlighting-code-block' ),
 	'sqf' => __( 'SQF', 'syntax-highlighting-code-block' ),
 	'sql' => __( 'SQL (Structured Query Language)', 'syntax-highlighting-code-block' ),
 	'stan' => __( 'Stan', 'syntax-highlighting-code-block' ),
